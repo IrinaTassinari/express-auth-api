@@ -138,16 +138,6 @@ Possible responses:
 - MongoDB is used with the database name `mini_project_1`.
 - The authentication middleware exists in the project, but it is not currently applied to protected routes.
 
-## Future Improvements
 
-- Add protected post routes
-- Fix and use the auth middleware for private endpoints
-- Add validation for request data
-- Add tests
-- Improve error handling
-- Add a `start` script to `package.json`
 
-## Security Notice
-
-Do not commit real secrets to GitHub. If your `.env` file contains a real MongoDB connection string or secret key, rotate them before publishing the repository.
 
